@@ -1,0 +1,17 @@
+{
+  "name": "angular-mini",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ng serve"
+  },
+  "dependencies": {
+    "@angular/core": "^17.0.0",
+    "@angular/platform-browser": "^17.0.0",
+    "zone.js": "~0.14.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^17.0.0",
+    "typescript": "~5.2.0"
+  }
+}
